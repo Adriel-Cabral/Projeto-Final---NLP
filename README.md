@@ -1,6 +1,6 @@
 # Projeto Final - NLP
 Projeto desenvolvido para a disciplina de Processamento de Linguagem Natural <br/>
-A nossa proposta é classificar um discurso em 3 classes: Progressista, Neutro e Convervador.
+A nossa proposta é classificar um discurso político em 3 classes: Progressista, Neutro e Convervador.
 
 ## Arquivos
 
